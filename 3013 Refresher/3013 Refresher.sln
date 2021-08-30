@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays1", "Arrays1\Arrays1.csproj", "{BA39948C-DCEC-46E0-96C9-C6E98BF92A7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{88EDDEE1-8AAF-4CE2-94E5-55140795D739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BA39948C-DCEC-46E0-96C9-C6E98BF92A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA39948C-DCEC-46E0-96C9-C6E98BF92A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA39948C-DCEC-46E0-96C9-C6E98BF92A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EDDEE1-8AAF-4CE2-94E5-55140795D739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EDDEE1-8AAF-4CE2-94E5-55140795D739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EDDEE1-8AAF-4CE2-94E5-55140795D739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EDDEE1-8AAF-4CE2-94E5-55140795D739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
